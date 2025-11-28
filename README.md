@@ -189,7 +189,7 @@ MAX_RETRY_ATTEMPTS=5
 
 -   Automatic quiz creation
 -   Progress tracking
--   Saves \~10h/module
+-   Saves time for module creation
 
 
 
