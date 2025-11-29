@@ -1,7 +1,14 @@
-# 🎓 Intelligent Multi-Agent Educational Quiz System
+# Intelligent Multi-Agent Educational Quiz System
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)](https://www.kaggle.com/) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/) [![ADK](https://img.shields.io/badge/Agent_Development_Kit-4285F4?logo=google&logoColor=fff)](https://google.github.io/adk-docs/) [![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?logo=google&logoColor=fff)](#)  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a60bb7eb-05de-42ce-9e59-741fbef39f94" alt="Capture d'écran 2025-11-26 191142" width="40%">
+  <br>
+  <sub>Designed by <a href="https://www.freepik.com">Freepik</a></sub>
+</p>
 
+<br><br>
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)](https://www.kaggle.com/) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/) [![ADK](https://img.shields.io/badge/Agent_Development_Kit-4285F4?logo=google&logoColor=fff)](https://google.github.io/adk-docs/) [![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?logo=google&logoColor=fff)](#)
 
 > An intelligent pedagogical assessment system based on Google ADK and
 > Gemini, designed to automate the creation, adaptation, and
